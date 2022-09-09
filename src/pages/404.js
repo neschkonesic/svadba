@@ -21,15 +21,14 @@ const NotFound = () => (
             color: "var(--primary-color)",
           }}
         />
-        <h1>Oops we did not expect that to happen</h1>
+        <h1>Оопс ово нисмо очекивали да че се десити</h1>
         <p>
-          Have you wondered into the unknow. Let us help you, Please take a look
-          at below options
+          погледајте опције испод
         </p>
       </header>
       <Link to="/" className="button">
         <RiArrowLeftSLine className="icon -left" />
-        Back to Homepage
+        назад на насловну
       </Link>
       <Link to="/contact" className="button -outline">
         Report this <RiBugLine className="icon -right" />
