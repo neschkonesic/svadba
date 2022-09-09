@@ -111,9 +111,9 @@ class BlogIndex extends React.Component {
     return (
       <Layout className="blog-page">
         <Seo
-          title={"Blog — Page " + currentPage + " of " + numPages}
+          title={"страница сајта " + currentPage + " од " + numPages}
           description={
-            "Stackrole base blog page " + currentPage + " of " + numPages
+            "Прва" + currentPage + " од " + numPages
           }
         />
         <h1>Вести</h1>
