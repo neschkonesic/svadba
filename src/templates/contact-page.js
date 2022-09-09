@@ -63,7 +63,7 @@ const Contact = ({ data }) => {
           </p>
           <p>
             <label>
-              Субјект
+              Субјект - опис поруке
               <input type="text" name="subject" required />
             </label>
           </p>
