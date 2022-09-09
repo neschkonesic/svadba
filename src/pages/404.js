@@ -21,7 +21,7 @@ const NotFound = () => (
             color: "var(--primary-color)",
           }}
         />
-        <h1>Оопс ово нисмо очекивали да че се десити</h1>
+        <h1>Оопс, ово нисмо очекивали да ће се десити</h1>
         <p>
           погледајте опције испод
         </p>
@@ -31,7 +31,7 @@ const NotFound = () => (
         назад на насловну
       </Link>
       <Link to="/contact" className="button -outline">
-        Report this <RiBugLine className="icon -right" />
+        Пријави грешку <RiBugLine className="icon -right" />
       </Link>
     </div>
   </Layout>
