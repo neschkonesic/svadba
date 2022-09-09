@@ -1,51 +1,94 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: О Шебету
 ---
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+![село Шебет](/assets/šebet-moj.jpg "село Шебет")
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+Порекло становништва, село Шебет, општина Гаџин Хан — Нишавски округ. Према књизи Марије Антић „Антропогеографска проучавања насеља Заплања“ на основу испитивања тог подручје од 2005. до 2010. године, едиција Корени — Службени гласник, Београд. Приредио сарадник Порекла Милодан.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
+Положај насеља, главне географске одлике.
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+Шебет је лоциран у Горњем Заплању. Налази се на западним падинама Суве планине (1.810 m), y југозападном подножју њеног врха Дебелац (1.671 m) и изворишном делу Шебетске реке, десне притоке Кутинске реке, 4,5 km источно од регионалног пута Никола Тесла — Гаџин Хан — Краставче — Доњи Душник — Равна Дубрава. Удаљен је 23,5 km југоисточно од Гаџиног Хана и 45,5 km југоисточно од Ниша. Простире се у висинском појасу од 620 до 720 m.
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+Воде.
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+У атару се налазе извори Долина, Кладенац, Пањевље итд., као и два, по предању лековита извора (за очне болести и астму) — Шавариште и Рупа.
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+Земље и шуме.
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+Обрадива земља налази се на погесима Грамађе, Подварница, Гњила, Друм, Поље, Дел, Горушњак, Рупа, Кишкино поље, Росуља, Долина и Длага њива. Пашњаци су на местима Поток, Калило, Шавариште, Дреновик, Бука, Лазиње, Манастириште, Рудина, Боговица, Бучје, Коло, Меча рупа, Врови, Падина, Глибина, Шиљегарник, Ржани и Дебелаци.
 
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
+Шума је на потесима Требежина бара, Шавариште, Забел и др., а сеоска утрина на местима Космати дел, Рамниште, Призидиник, Јазбине, Гложђе, Габар и Лаз. Мештани су раније имали винограде у душничком атару.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Тип села (Облик и физиономија).
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+Шебет је збијеног типа, неправилног округластог облика. Састоји се из девет махала — група сродничких кућа: Нердаци, Бандаци, Самарџије, Стојковци, Стојаци, Пикљаци, Виљаци, Маринци и Шуљанци, од којих је последња расељена у савременом периоду.
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+Старине у селу.
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Сматра се да је данашње село формирано на месту римске насеобине (локалитетима Селиште, Пањеви, Остри камен и др.). Античке старости су и остаци (зидине, опека итд.) осматрачница лоцираних на врховима Семерово коло и Тремче.
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+На Манастиришту се налазе остаци православног храма (потпорни зид, камени колос и сл.), највероватније византијске старости, који је давно порушен у бујици. Из периода турске владавине, када је последњи господар села, по сећању најстаријих мештана, био Јусуф–бег, датира локалитет Касина зграда (без видљивих трагова), где је прикупљан десетак.
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Порекло становништва.
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+У Шебету данас живе припадници осам фамилија, које себе сматрају старинцима и не памте своје миграционо порекло.
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+To су:
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+\-Стојковци (4 куће, славе Св. Јована),
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+\-Самарџије (5 кућа, славе Св. Николу),
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+\-Бандаци (6 кућа, славе Св. Ђорђа),
+
+\-Пикљаци (3 куће, славе Св. Николу),
+
+\-Неркаци (10 кућа, славе Св. Николу),
+
+\-Стојаци (4 куће, славе Св. Николу),
+
+\-Виљаци (3 куће, славе Св. Јована) и:
+
+\-Маринци (1 кућа, слави Св. Јована).
+
+Фамилија:
+
+\-Шуљанци (славе Св. Николу) је у савременом периоду исељена.
+
+Сеоска слава — „литије“, је Св. Јеремија. У средишњем делу насеља налази се дрвени крст (обновљен почетком ХХ! века), а записна дрва су осушена и исечена.
+
+Новија исељавања становништва.
+
+У савременом периоду исељене су, већином у Ниш и приградска насеља (4 куће одсељене су, у време „колонизације“ Војводине, у Вршац и Оџаке), и „угашене“ (смрћу домаћина) 44 куће: 9 кућа фамилије:
+
+\-Стојаци, 7 кућа фамилије:
+
+\-Шуљанци, 6 кућа фамилије:
+
+\-Бандаци, 5 кућа фамилије:
+
+\-Стојковци, 4 куће фамилије:
+
+\-Пикљаци и по 3 куће фамилија:
+
+\-Самарџије, Маринци и Неркаци.
+
+Функције у селу.
+
+Шебет је сточарско село. Ратарство је задовољавало само потребе руралних домаћинстава, што је често било недовољно. Из тог разлога мештани су одлазили у печалбу у Шумадију, где су се бавили цигларским и црепарским занатом, а после Другог светског рата бербом кукуруза у Војводини.
+
+На бази заступљености основних функција припада примарним сеоским насељима.
+
+Четвороразредна школа је престала са радом због мањка ученика, а данас у селу ради само једна продавница.
+
+Уређење насеља.
+
+Мештани су се раније снабдевали водом из бунара и са јавних чесми (каптиани извори Долина и Кладенац), на којима су била постављена корита за напајање стоке (у ту сврху коришћена је и чесма на Широкој падини). Уз то, за водоснабдевање и напајање стоке коришћене су и провалије — Савина, Пикљашка и Крстата, у којима се снег задржавао преко целе године, а лед се продавао у Нишкој Бањи и околним селима. Године 1984. каптирањем извора на месту Манастириште — Пањевље почео је са радом сеоски водовод.
+
+Село је електрифицирано 1970, асфалтни пут добија почетком 80–их година XX века, а телефонске везе 2000. године.
+
+ИЗВОР: Према књизи Марије Антић „Антропогеографска проучавања насеља Заплања“ на основу испитивања тог подручје од 2005. до 2010. године, едиција Корени — Службени гласник, Београд.
