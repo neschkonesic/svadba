@@ -10,12 +10,8 @@ featuredImage: /assets/jeremija.jpg
 
 # Litije jeremija 2022 god. u Šebetu.
 
-Litije jeremija 2022 god.
 
-06 Sep, 2022
+
+
 
 Више детаља о одржаним литијама 14. маја 2022 год. можете видети на сајту <https://schebet.carrd.co/>
-
-![Litije jeremija 2022 god.  u Šebetu.](https://shebet-selo.netlify.app/img/jeremija.jpg "Litije jeremija 2022 god.  u Šebetu.")
-
-Litije jeremija 2022 god. u Šebetu.
