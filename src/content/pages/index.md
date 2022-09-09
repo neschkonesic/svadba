@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Шебет
+tagline: "село Шебет, општина Гаџин Хан — Нишавски округ. "
+featuredImage: /assets/šebet-moj.jpg
 cta:
-  ctaText: Know more
+  ctaText: више о Шебету
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Шебет је лоциран у Горњем Заплању. Налази се на западним падинама Суве планине (1.810 m), y југозападном подножју њеног врха Дебелац (1.671 m) и изворишном делу Шебетске реке, десне притоке Кутинске реке, 4,5 km источно од регионалног пута Никола Тесла — Гаџин Хан — Краставче — Доњи Душник — Равна Дубрава. Удаљен је 23,5 km југоисточно од Гаџиног Хана и 45,5 km југоисточно од Ниша. Простире се у висинском појасу од 620 до 720 m.
