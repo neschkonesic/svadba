@@ -29,7 +29,7 @@ const PostMaker = ({ data }) => (
         variant: "variants.button",
       }}
     >
-      прочитај више о овоме...
+      претходне објаве...
       <span className="icon -right">
         <RiArrowRightSLine />
       </span>
