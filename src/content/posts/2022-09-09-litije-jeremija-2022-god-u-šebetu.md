@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Litije jeremija 2022 god. u Šebetu.
-slug: Litije jeremija 2022 god. u Šebetu.
+slug: /Litije jeremija 2022 god. u Šebetu.
 date: 2022-09-09 19:58
 description: Litije jeremija 2022 god. u Šebetu.
 featuredImage: /assets/jeremija.jpg
