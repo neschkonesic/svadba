@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Шебет",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Шебет је лоциран у Горњем Заплању. Налази се на западним падинама Суве планине (1.810 m), y југозападном подножју њеног врха Дебелац (1.671 m) и изворишном делу Шебетске реке, десне притоке Кутинске реке, 4,5 km источно од регионалног пута Никола Тесла — Гаџин Хан — Краставче — Доњи Душник — Равна Дубрава. Удаљен је 23,5 km југоисточно од Гаџиног Хана и 45,5 km југоисточно од Ниша. Простире се у висинском појасу од 620 до 720 m.",
+    "siteUrl": "https://kojeimanovoposhebet.netlify.app",
+    "image": "/assets/šebet-moj.jpg",
+    "iconimage": "/assets/sebet-copy-.png",
+    "twitterUsername": "@schebet"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
