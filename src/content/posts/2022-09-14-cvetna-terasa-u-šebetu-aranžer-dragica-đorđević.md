@@ -6,4 +6,4 @@ date: 2022-09-14 11:03
 description: Cvetna terasa u Šebetu
 featuredImage: /assets/img20220913104329.jpg
 ---
-Cvetna terasa u Šebetu. LJubav prema cveću treba uvek nagrađivati jer ljubav u sebi je nešto najlepše što čovek u sebi poseduje.
+Cvetna terasa u Šebetu. Ljubav prema cveću treba uvek nagrađivati jer ljubav je nešto najlepše što čovek u sebi poseduje.
