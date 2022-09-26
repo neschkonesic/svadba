@@ -16,7 +16,7 @@ const Footer = () => (
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-        од оних који воле <Link to="/">Шебет</Link>
+        од оних који воле <Link to="/">Невену и Милоша</Link>
       </p>
     </div>
   </footer>
