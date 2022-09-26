@@ -98,8 +98,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Шебет`,
-        short_name: `Шебет`,
+        name: `Nevena & Miloš - svadba`,
+        short_name: `Nevena & Miloš`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
