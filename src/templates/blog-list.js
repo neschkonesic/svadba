@@ -116,7 +116,7 @@ class BlogIndex extends React.Component {
             "Прва" + currentPage + " од " + numPages
           }
         />
-        <h1>Вести</h1>
+        <h1>Са свадбе</h1>
         <div className="grids col-1 sm-2 lg-3">{posts}</div>
         <Pagination {...props} />
       </Layout>
