@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Nevena & Miloš
 tagline: "Svečano venčanje mladenaca Nevene Marković i Miloša Đorića "
-featuredImage: /assets/šebet-moj.jpg
+featuredImage: /assets/svadba-nevene-i-miloša.png
 cta:
   ctaText: detaljnije o svadbi
   ctaLink: /about
