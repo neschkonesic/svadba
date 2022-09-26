@@ -1,11 +1,25 @@
 ---
 template: index-page
 slug: /
-title: Шебет
-tagline: "село Шебет, општина Гаџин Хан — Нишавски округ. "
+title: Nevena & Miloš
+tagline: "Svečano venčanje mladenaca Nevene Marković i Miloša Đorića "
 featuredImage: /assets/šebet-moj.jpg
 cta:
-  ctaText: више о Шебету
+  ctaText: detaljnije o svadbi
   ctaLink: /about
 ---
-Шебет је лоциран у Горњем Заплању. Налази се на западним падинама Суве планине (1.810 m), y југозападном подножју њеног врха Дебелац (1.671 m) и изворишном делу Шебетске реке, десне притоке Кутинске реке, 4,5 km источно од регионалног пута Никола Тесла — Гаџин Хан — Краставче — Доњи Душник — Равна Дубрава. Удаљен је 23,5 km југоисточно од Гаџиног Хана и 45,5 km југоисточно од Ниша. Простире се у висинском појасу од 620 до 720 m...
+Sa radošću Vas pozivamo da svojim prisustvom uveličate naše slavlje i budete naši dragi gosti
+Nevena & Miloš
+Protokol
+
+Prijem gostiju i fotografisanje
+
+17:30h – 18:20h
+
+Venčanje
+
+18:30h – 18:50h
+
+Proslava
+
+19:00h – 01:00h
