@@ -16,7 +16,7 @@ export default function BlogListHome(props) {
 const PostMaker = ({ data }) => (
   <section className="home-posts">
     <h2>
-      најновије објаве <strong>о Шебету</strong>{" "}
+      Са свадбеног весеља: <strong>Nevena & Miloš</strong>{" "}
       <span className="icon -right">
         <RiArrowDownLine />
       </span>
