@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Čekamo Vas ovde
-slug: /restoran "Mesečev konak"
+slug: /Čekamo Vas ovde
 date: 2022-09-26 16:26
 description: restoran "Mesečev konak"
 featuredImage: /assets/mesečev-konak.png
