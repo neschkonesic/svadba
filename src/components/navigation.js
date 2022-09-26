@@ -12,11 +12,11 @@ const MenuItems = [
   },
   {
     path: "/about",
-    title: "О Шебету",
+    title: "О свадби",
   },
   {
     path: "/blog",
-    title: "Вести",
+    title: "Са свадбе",
   },
   {
     path: "/contact",
