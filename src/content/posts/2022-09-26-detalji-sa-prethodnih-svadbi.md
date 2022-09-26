@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Detalji sa prethodnih svadbi.
-slug: Detalji sa prethodnih svadbi.
+slug: /Detalji sa prethodnih svadbi.
 date: 2022-09-26 16:46
 description: Detalji sa prethodnih svadbi.
 featuredImage: /assets/6.png
