@@ -1,12 +1,13 @@
 {
   "meta": {
-    "title": "Шебет",
+    "title": "Nevena & Miloš - svadba",
     "titleTemplate": "%s",
-    "description": "село Шебет, општина Гаџин Хан — Нишавски округ. ",
-    "siteUrl": "https://kojeimanovoposhebet.netlify.app",
+    "description": "Sa radošću Vas pozivamo da svojim prisustvom uveličate naše slavlje i budete naši dragi gosti.  Nevena & Miloš
+ ",
+    "siteUrl": "https://NevenaiMiloš-svadba.netlify.app",
     "image": "/assets/šebet-moj.jpg",
     "iconimage": "/assets/sebet-copy-.png",
-    "twitterUsername": "@schebet"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
