@@ -6,4 +6,4 @@ date: 2022-09-26 16:26
 description: restoran "Mesečev konak"
 featuredImage: /assets/mesečev-konak.png
 ---
-Čekamo Vas i Želimo da se lepo provedete!
+Čekamo Vas i želimo da se lepo provedete!
